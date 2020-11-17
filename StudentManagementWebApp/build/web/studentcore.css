@@ -1,0 +1,36 @@
+
+.btnMy{
+    border:2px solid;
+    border-radius: 5px;
+    background-color: #ffc033;
+}  
+/*            #btnMyId{
+                border:2px solid;
+                border-radius: 5px;
+                background-color: #ff3333;
+            }  */
+
+.myUl{
+    list-style-type: none;
+}
+.myUl li{
+    float:left;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+
